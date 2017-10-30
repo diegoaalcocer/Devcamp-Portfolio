@@ -56,3 +56,5 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 
 gem 'alco_view_tool', '~> 0.1.0'
 gem 'petergate', '~> 1.8'
+gem 'kaminari', '~> 1.1', '>= 1.1.1'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.2'
